@@ -1,4 +1,3 @@
-<h1 align="center">Peter Ozahl</h1>
 <h3 align="center">Futuro desarrollador</h3>
 
 <p align="center">
@@ -6,7 +5,7 @@
 </p>
 
 <p align="center">
-🧼 Clean Code • 🌱 Open Source • ❤️ Tech Lover
+✨ Clean Code • 🌲 Open Source • 💜 Tech Lover
 </p>
 
 <p align="center">
@@ -23,14 +22,14 @@
 
 ---
 
-## 🧠 Sobre mí
+## 🧠 About me
 
-Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** apasionado por crear software útil, eficiente y bien diseñado.
+Studing **Multiplatform Application Developer (MAD)** 
 
 - 🚀 Interés en desarrollo Full Stack  
 - 📱 Desarrollo Android con Java  
 - ⚙️ APIs REST con Java / Spring  
-- 🌍 Trabajo con metodologías ágiles  
+- 🌍 B2 in English  
 - 📚 Aprendizaje continuo  
 
 ---
@@ -81,7 +80,7 @@ Panel interactivo de visualización de datos.
 ## 🧰 Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,androidstudio,maven,sqlite,git,github,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=java,androidstudio,maven,sqlite,git,github,html,css,js,python," />
 </p>
 
 ---
@@ -99,8 +98,8 @@ Panel interactivo de visualización de datos.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanespana&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanespana&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=peterozahlll&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterozahlll&layout=compact"/>
 </p>
 
 ---
@@ -110,13 +109,13 @@ Panel interactivo de visualización de datos.
 <p align="center">
 
 💼 LinkedIn — https://linkedin.com/in/TU_PERFIL  
-📧 Email — TU_EMAIL  
-🌐 Portfolio — https://TU_WEB  
+📧 Email — peterozahlll@gmail.com  
+🌐 Portfolio — https://peterozahlll.github.io  
 
 </p>
 
 ---
 
 <p align="center">
-⭐ Gracias por visitar mi perfil — github.com/juanespana
+⭐ Gracias por visitar mi perfil — github.com/peterozahlll
 </p>
