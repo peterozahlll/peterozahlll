@@ -98,9 +98,9 @@ Panel interactivo de visualización de datos.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peterozahlll&show_icons=true" bg_color=#000000>
+  <img src="https://github-readme-stats.vercel.app/api?username=peterozahlll&show_icons=true&theme=midnight-purple">
   </br></br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterozahlll&layout=compact" & bg_color=#000000/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterozahlll&layout=compact&theme=midnight-purple"/>
 </p>
 
 ---
@@ -111,7 +111,7 @@ Panel interactivo de visualización de datos.
 
 💼 LinkedIn — https://linkedin.com/in/TU_PERFIL  
 📧 Email — peterozahlll@gmail.com  
-🌐 Portfolio — https://peterozahlll.github.io  
+<!--🌐 Portfolio — https://peterozahlll.github.io-->
 
 </p>
 
