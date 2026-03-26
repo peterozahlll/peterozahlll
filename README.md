@@ -77,7 +77,7 @@ Panel interactivo de visualización de datos.
 <img align="right" src="https://github.com/peterozahlll/peterozahlll/blob/main/img/stats_card_peter_v3.svg" width="400"/>
 <img align="right" src="https://github.com/peterozahlll/peterozahlll/blob/main/img/stats_card_v3.svg" width="400"/>
 </br></br>
- 
+<img align="right" src="https://github.com/peterozahlll/peterozahlll/blob/main/img/perfil_mad.svg" width="400"/>
 </br></br>
 ---
 
